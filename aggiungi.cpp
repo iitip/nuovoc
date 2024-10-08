@@ -28,7 +28,7 @@ int main() {
     cout << "Sum of x+y=" << z << endl;
     
     unsigned short m;
-    m = 65541;
+    //m = 65541;
     cout << "x=" << x << endl;
     int k;
     k = aggiungidue(x);
